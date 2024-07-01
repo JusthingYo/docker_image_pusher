@@ -1,4 +1,5 @@
-mongo:6.0.10
+nginx:1.24.0-alpine
+#mongo:6.0.10
 #prom/prometheus:latest
 #grafana/grafana:latest
 #mysql:8.0.37
