@@ -1,6 +1,7 @@
-prom/prometheus:latest
-grafana/grafana:latest
-mysql:8.0.37
+mongo:6.0.10
+#prom/prometheus:latest
+#grafana/grafana:latest
+#mysql:8.0.37
 #nacos/nacos-server:v2.3.2
 #支持指定架构
 #--platform=linux/arm64
