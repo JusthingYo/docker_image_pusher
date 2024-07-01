@@ -1,4 +1,4 @@
-nginx:1.19.3-alpin
+nginx:1.19.3-alpine
 #nginx:1.24.0-alpine
 #mongo:6.0.10
 #prom/prometheus:latest
