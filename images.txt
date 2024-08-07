@@ -1,4 +1,7 @@
-nginx:1.19.3-alpine
+grafana/loki
+grafana/promtail
+grafana/grafana
+#nginx:1.19.3-alpine
 #nginx:1.24.0-alpine
 #mongo:6.0.10
 #prom/prometheus:latest
