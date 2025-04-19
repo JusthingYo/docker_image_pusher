@@ -1,4 +1,4 @@
-onlyoffice/documentserver
+#onlyoffice/documentserver
 #grafana/loki
 #grafana/promtail
 #grafana/grafana
@@ -11,3 +11,5 @@ onlyoffice/documentserver
 #nacos/nacos-server:v2.3.2
 #支持指定架构
 #--platform=linux/arm64
+redis:6.0.20
+zookeeper:3.5.7
