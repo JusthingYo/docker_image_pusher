@@ -13,4 +13,5 @@
 #--platform=linux/arm64
 #redis:6.0.20
 #zookeeper:3.5.7
-rabbitmq:3.13-management
+#rabbitmq:3.13-management
+minio/minio
