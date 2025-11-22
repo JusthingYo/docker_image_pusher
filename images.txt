@@ -17,4 +17,6 @@
 #minio/minio
 #mysql:5.7.44
 #redis:6.0.20
-openjdk:8-jre-alpine
+#openjdk:8-jre-alpine
+node:18-alpine
+
