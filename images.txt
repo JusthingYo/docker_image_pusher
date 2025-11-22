@@ -15,3 +15,5 @@
 #zookeeper:3.5.7
 #rabbitmq:3.13-management
 minio/minio
+mysql:5.7.44
+redis:6.0.20
