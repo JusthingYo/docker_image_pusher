@@ -22,4 +22,5 @@
 #season/fastdfs:6.06
 #python:3.11-slim
 #ubuntu:22.04
-bwits/pdf2htmlex
+#bwits/pdf2htmlex
+python:3.13-slim-bullseye
