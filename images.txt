@@ -20,4 +20,5 @@
 #openjdk:8-jre-alpine
 #node:18-alpine
 #season/fastdfs:6.06
-python:3.11-slim
+#python:3.11-slim
+ubuntu:20.04
