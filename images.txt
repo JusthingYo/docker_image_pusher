@@ -21,4 +21,4 @@
 #node:18-alpine
 #season/fastdfs:6.06
 #python:3.11-slim
-ubuntu:20.04
+ubuntu:22.04
