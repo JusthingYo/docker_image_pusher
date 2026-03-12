@@ -23,4 +23,4 @@
 #python:3.11-slim
 #ubuntu:22.04
 #bwits/pdf2htmlex
-python:3.13-slim-bullseye
+pdf2htmlex/pdf2htmlex:0.18.8.rc1-master-20200630-Ubuntu-bionic-x86_64
