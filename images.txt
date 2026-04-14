@@ -23,4 +23,5 @@
 #python:3.11-slim
 #ubuntu:22.04
 #bwits/pdf2htmlex
-pdf2htmlex/pdf2htmlex:0.18.8.rc1-master-20200630-Ubuntu-bionic-x86_64
+#pdf2htmlex/pdf2htmlex:0.18.8.rc1-master-20200630-Ubuntu-bionic-x86_64
+maven:3.9.9-eclipse-temurin-8
