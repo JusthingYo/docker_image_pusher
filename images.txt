@@ -26,4 +26,6 @@
 #pdf2htmlex/pdf2htmlex:0.18.8.rc1-master-20200630-Ubuntu-bionic-x86_64
 #maven:3.9.9-eclipse-temurin-8
 #eclipse-temurin:8-jre
-openjdk:8-jdk
+#openjdk:8-jdk
+dockette/jdk8:latest
+
