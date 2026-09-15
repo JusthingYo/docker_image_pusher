@@ -28,7 +28,8 @@
 #eclipse-temurin:8-jre
 #openjdk:8-jdk
 #dockette/jdk8:latest
-grafana/loki:3.7.7
-prom/prometheus:v3.14.0
-grafana/grafana:13.2.1
-grafana/alloy:v1.8.3
+#grafana/loki:3.7.7
+#prom/prometheus:v3.14.0
+#grafana/grafana:13.2.1
+#grafana/alloy:v1.8.3
+prom/node-exporter:v1.12.1
